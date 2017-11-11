@@ -1,2 +1,2 @@
-# Video-screenshotter
-PHP class that makes screenshots of a video file
+# Movie-Montager
+PHP class that makes a screenshot montage of any inputed video/movie
