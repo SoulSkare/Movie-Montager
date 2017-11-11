@@ -1,7 +1,7 @@
 <?php
 
 ################################
-#	ScreenShot php code by
+#	Movie Montager aka ScreenShot php code by
 #	kieron.welman@gmail.com
 ################################
 
